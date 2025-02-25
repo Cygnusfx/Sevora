@@ -1,8 +1,15 @@
-# React + Vite
+# 🎬 Sevora – Minimalist Streaming Platform  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Why Sevora?**  
+✅ **Search any movie** effortlessly  
+✅ **Create your own watchlist** to save favorites  
+✅ **Minimalist UI** for a clean and distraction-free experience  
+✅ **Instant streaming** using torrent-based technology  
 
-Currently, two official plugins are available:
+## ⚡ Tech Stack  
+🔹 **React & Tailwind** – For a sleek, modern, and responsive UI  
+🔹 **Node.js** – The powerhouse handling backend operations  
+🔹 **Movie Data APIs** – Fetching all the latest movie details  
+🔹 **WebTorrent** – Enabling seamless streaming with torrent hashing  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔧 Currently improving & open to feedback!  🚀
